@@ -1,5 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-ene-slrs-dam/sql/20190916_20190917_ENE_SLRS_DAM_20190922_11_08_19_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-ene-slrs-dam/sql/20190917_20190918_ENE_SLRS_DAM_20190922_11_08_25_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-ene-slrs-dam/sql/20190919_20190920_ENE_SLRS_DAM_20190922_11_08_35_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-ene-slrs-dam/sql/20190918_20190919_ENE_SLRS_DAM_20190922_11_08_30_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-ene-slrs-dam/sql/20190920_20190921_ENE_SLRS_DAM_20190922_11_08_40_v1.sql
+20190917_20190918_ENE_SLRS_DAM_20190922_11_08_25_v1.sql
+20190919_20190920_ENE_SLRS_DAM_20190922_11_08_35_v1.sql
+20190916_20190917_ENE_SLRS_DAM_20190922_11_08_19_v1.sql
+20190918_20190919_ENE_SLRS_DAM_20190922_11_08_30_v1.sql
+20190920_20190921_ENE_SLRS_DAM_20190922_11_08_40_v1.sql
